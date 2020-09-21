@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229125996493",
+    "firebase_url": "https://nomadsinn-cc46c.firebaseio.com",
+    "project_id": "nomadsinn-cc46c",
+    "storage_bucket": "nomadsinn-cc46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229125996493:android:1f56d8e2b14cd440b7ce84",
+        "android_client_info": {
+          "package_name": "com.example.nomadsinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229125996493-onq6gst5evb4bg48hiu46cq7seid78m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nomadsinn",
+            "certificate_hash": "f9c03efbd1fcdbedf106d8d2e97190f34e95d0fc"
+          }
+        },
+        {
+          "client_id": "229125996493-t7c4q007bjh0ocjs13vi1d4ngceibgtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-nNmigszYVWuq364oYD_nm6-y6vP-m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229125996493-t7c4q007bjh0ocjs13vi1d4ngceibgtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
